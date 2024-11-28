@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mr"
+title                    : "Deli Yang / Mr"
 title_separator          : "."
 name                     : &name "Deli Yang"
 description              : &description "Deli is my name and (hope that) finance is my game."
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Deli Yang"
   pronouns         : # example: "she/her"  
-  bio              : "N/A"
+  bio              : "Deli is my name and (hope that) finance is my game."
   location         : "Hong Kong SAR, China"
   employer         : "HKUST"
   uri              : # URL
