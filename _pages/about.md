@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a research assistant at HKUST. Prior to that, I graduated from CUHK-Shenzhen and Hunan University.
+I am a research assistant at HKUST. Before that, I obtained my master's degree in data science from CUHK-Shenzhen and bachelor's degree in finance from Hunan University. I am interested in topics about financial markets.
