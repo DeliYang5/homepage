@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-
+I am a research assistant at HKUST. Prior to that, I graduated from CUHK-Shenzhen and Hunan University.
