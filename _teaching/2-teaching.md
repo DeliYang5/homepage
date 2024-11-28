@@ -3,7 +3,7 @@ title: "Teaching Assistant for Corporate Governance"
 collection: teaching
 type: "EMBA Course"
 venue: "HKUST"
-date: Oct. 2024
+date: Mar. & Oct. 2024
 location: "Hong Kong, SAR"
 ---
 
