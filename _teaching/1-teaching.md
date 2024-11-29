@@ -7,9 +7,9 @@ date: Jan. 2022 - May 2022
 location: "Shenzhen, China"
 ---
 
-Teach Tutorial
+Teach tutorials
 ======
 
-Marking homework, the course project, and exam papers
+Marking assignments, course projects, and exam papers
 ======
 
