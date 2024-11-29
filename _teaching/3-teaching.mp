@@ -12,4 +12,3 @@ Grading exam papers
 
 On-course assistance
 ======
-
