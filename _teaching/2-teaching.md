@@ -8,10 +8,8 @@ location: "Hong Kong, SAR"
 ---
 
 Grading assignments & exam papers
-======
 
 Course Materials
-======
 
 On-course assistance
-======
+
