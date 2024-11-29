@@ -7,8 +7,6 @@ date: Jan. 2022 - May 2022
 location: "Shenzhen, China"
 ---
 
-Teach tutorials
-
-Marking assignments, course projects, and exam papers
+1. Prepare slides and teach tutorials 2. Marking assignments, course projects, and exam papers
 
 
