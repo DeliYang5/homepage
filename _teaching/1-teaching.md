@@ -12,6 +12,6 @@ This is a description of a teaching experience. You can use markdown like any ot
 Teach Tutorial
 ======
 
-Marking homework, course project and exam papers
+Marking homework, the course project, and exam papers
 ======
 
