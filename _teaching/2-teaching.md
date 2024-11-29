@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant for Corporate Governance"
+title: "Teaching Assistant for IMBA5560 Corporate Governance"
 collection: teaching
 type: "EMBA Course"
 venue: "HKUST"
