@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant for IMB5030 Financial Accounting"
+title: "Teaching Assistant for IMB5030 Accounting Foundations"
 collection: teaching
 type: "EMBA Course"
 venue: "HKUST"
