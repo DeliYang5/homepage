@@ -7,8 +7,6 @@ date: Mar. & Oct. 2024
 location: "Hong Kong, SAR"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
 Grading assignments
 ======
 
