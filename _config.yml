@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Deli Yang"
   pronouns         : # example: "she/her"  
-  bio              : "Deli is my name and (hope that) finance is my game."
+  bio              : #"Deli is my name and (hope that) finance is my game."
   location         : "Hong Kong SAR, China"
   employer         : "HKUST"
   uri              : # URL
