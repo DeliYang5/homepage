@@ -14,7 +14,7 @@ Education
 * M.S. in Data Science, Chinese University of Hong Kong, Shenzhen, 2023
 * B.A. in Finance, Hunan University, 2021
   
-Publications
+Working Papers
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
