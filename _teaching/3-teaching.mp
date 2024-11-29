@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant for Financial Accounting"
+title: "Teaching Assistant for IMB5030 Financial Accounting"
 collection: teaching
 type: "EMBA Course"
 venue: "HKUST"
@@ -7,14 +7,4 @@ date: Oct. 2024
 location: "Hong Kong, SAR"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
 
