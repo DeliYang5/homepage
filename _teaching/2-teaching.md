@@ -7,9 +7,5 @@ date: Mar. & Oct. 2024
 location: "Hong Kong, SAR"
 ---
 
-Grading assignments & exam papers
-
-Course Materials
-
-On-course assistance
+1. Grading assignments & exam papers 2. Course Materials 3.On-course assistance
 
